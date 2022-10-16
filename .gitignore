@@ -1,0 +1,11 @@
+tiny-imagenet-200/
+__pycache__/
+.vscode/
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.synctex.gz
+*.bbl
+*.blg
+*.out
